@@ -1,3 +1,5 @@
+## YFIT repo is under construction, we are about to changes and update this within one week.
+
 # Yearn Protocol
 
 [![GitHub license](https://img.shields.io/badge/license-AGPL-blue.svg)](https://github.com/iearn-finance/yearn-protocol/blob/master/LICENSE)
@@ -23,68 +25,8 @@ To run the project you need:
 
 ### Installation
 
-To run the yearn protocol, pull the repository from GitHub and install its dependencies. You will need [yarn](https://yarnpkg.com/lang/en/docs/install/) installed.
-
-```bash
-git clone https://github.com/iearn-finance/yearn-protocol
-cd yearn-protocol
-yarn install --lock-file
-```
-
-Compile the Smart Contracts:
-
-```bash
-brownie compile
-```
-
-### Tests
-
-Run tests:
-
-```bash
-brownie test -s
-```
-
-Run tests with coverage:
-
-```bash
-brownie test -s --coverage
-```
-
-### Formatting
-
-Check linter rules for `*.json` and `*.sol` files:
-
-```bash
-yarn lint:check
-```
-
-Fix linter errors for `*.json` and `*.sol` files:
-
-```bash
-yarn lint:fix
-```
-
-Check linter rules for `*.py` files:
-
-```bash
-black . --check --config black-config.toml
-```
-
-Fix linter errors for `*.py` files:
-
-```bash
-black . --config black-config.toml
-```
-
-### Security
-
-For security concerns, please visit [Bug Bounty](https://github.com/iearn-finance/yearn-protocol/blob/develop/SECURITY.md).
-
-### Documentation
-
-You can read more about yearn finance on our documentation [webpage](https://docs.yearn.finance).
+Instructions will appear here once our repo is fully ready to use.
 
 ### Discussion
 
-For questions not covered in the docs, please visit [our Discord server](http://discord.yearn.finance).
+For questions not covered in the docs, please visit [our Telegram channel](https://t.me/yearnfi).
